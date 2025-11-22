@@ -29,7 +29,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "https://media.tenor.com/U1DHDgOdKwYAAAAe/flashback-flashback-cat.png, # Message to show
+        "message": "czesc, # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
