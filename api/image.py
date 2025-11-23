@@ -21,7 +21,7 @@ config = {
     "accurateLocation": False,
 
     "message": {
-        "doMessage": False, 
+        "doMessage": True, 
         "message": "cabdio buradaydı :)",
         "richMessage": True,
     },
